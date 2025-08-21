@@ -1,0 +1,18 @@
+.env
+__pycache__/
+# 🔐 Sensitive files
+.env
+
+# 🐍 Python cache
+__pycache__/
+
+# 📁 Runtime-generated uploads
+uploads/
+
+# 🧪 Virtual environments
+venv/
+env/
+
+# 🗑️ OS-specific clutter
+*.DS_Store
+Thumbs.db
